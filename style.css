@@ -98,17 +98,14 @@ button:hover{
 #bottom-left-section p{
     font-size: 0.8rem;
     margin-bottom: 15px;
-    
+
 }
 
 @media (min-width: 576px) {
     #card{
         width: 550px;
         height: 400px;
-        display: flex;
-        justify-content:center;
-        align-items: center;
-    }
+}
     #bottom-left-section, #bottom-right-section{
         width: 50%;
     } 
