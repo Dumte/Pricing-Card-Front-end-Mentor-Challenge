@@ -28,10 +28,6 @@ h2, h4, p{
     box-sizing: inherit;
 }
 #card {
-    /* width: 600px;
-    height: 400px; */
-    display: grid;
-    place-content: center;
     box-shadow: 2px 3px 7px 0px rgba(0,0,0,0.35);
     -webkit-box-shadow: 2px 3px 7px 0px rgba(0,0,0,0.35);
     -moz-box-shadow: 2px 3px 7px 0px rgba(0,0,0,0.35);
